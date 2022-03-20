@@ -1,0 +1,28 @@
+* {
+  font-family: sans-serif;
+  color: white;
+}
+
+.rechead,
+.inhead {
+  background-color: gray;
+  
+  text-align: center;
+}
+
+.recimg {
+  height: 300px;
+  width: 500px;
+}
+
+body {
+  background-color: black;
+}
+
+h4 {
+  background-color: gray;
+}
+
+.indiehead {
+  background-color: black;
+}
